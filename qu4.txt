@@ -1,0 +1,13 @@
+Personalize the Hello World program with your name so that it tells you Hello rather than the somewhat generic "World."
+  
+class Hello
+{
+public static void main(String args[])
+{
+String a=“Hello”;
+String b=“name”;
+System.out.println(a+b);
+}
+}
+
+
